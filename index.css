@@ -1,0 +1,139 @@
+*{
+    font-family: system-ui, -apple-systzem, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    
+}
+body{
+    margin: 0;
+}
+.hero{
+    color: white;
+    background-color: #171f2a;
+    padding-bottom: 3rem;
+}
+h1{
+    font-size: 48px;
+    margin-top: 10px;
+    margin-bottom:10px ;
+}
+h3{
+    margin: auto;
+    margin-bottom: 20px;
+    font-size: 18px;
+    color: #c0c2c6;
+    font-weight: 300;
+}
+
+.header {
+    display: flex;
+    justify-content: flex-end;
+    font-size: 18px;
+    margin-right: 10rem;
+    align-items: center;
+    padding-top: 1rem;
+    border-color: aquamarine;
+}
+.logo{
+    font-size: 24px;
+    margin-right: auto;
+    margin-left: 10rem;
+}
+
+.nav{
+    display: flex;
+    justify-content: space-between;
+    gap: 24px; 
+     font-size: 18px;
+    color: #c0c2c6;
+    font-weight: 300;
+}
+
+.main{
+    display: flex;
+    margin: 7rem;
+    margin-right: 10rem;
+    margin-left: 10rem;
+}
+.signup,.signup2{
+     padding: 8px 24px;
+    border-radius: 8px;
+    background-color: #3882F6;
+}
+.leftSec{
+    margin-right: 2rem;
+}
+
+.head{
+    margin: 3rem;
+    text-align: center;
+    font-size: 36px;
+    font-weight: 900;
+}
+
+.infoCont{
+    display: flex;
+    margin: 2rem 10rem;
+    justify-content: space-around;
+}
+.box{
+    margin: 1rem;
+}
+.image{
+    color: #3882F6;
+    border: solid;
+    border-width: 4px;
+    border-color: #3882F6;
+    border-radius: 14px;
+    height: 10rem;
+    width: 10rem;
+}
+.text{
+    padding: 6px;
+    width: 160px;
+    font-size: 16px;
+    text-align: center;
+    font-weight: 300;
+}
+.quote{
+    background-color: #E5E7EB;
+    padding: 8rem 20rem;
+}
+.insideContent{
+    font-size: 36px;
+    font-style: italic;
+    color: #1f2937;
+    font-weight: 300;
+}
+
+.thor{
+    text-align: right;
+    font-size: 30px;
+    font-weight: 500;
+}
+
+.cta{
+    margin: 6rem 12rem;
+    padding: 3rem 7rem;
+    display: flex;
+    background-color: #3882F6;
+    border-radius: 8px;
+    color: white;
+    height: 3rem;
+    justify-content: space-between;
+}
+.call{
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 0.5rem;
+}
+.product{
+    font-weight: 200;
+}
+
+.signup2{
+    border: solid;
+    text-align: center;
+}
+
+
+
+
